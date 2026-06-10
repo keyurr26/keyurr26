@@ -1,64 +1,65 @@
-# 🚀 Hi there, I'm a Developer & UI/UX Enthusiast! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2puZ3ZtcXNreXp3b3p0Z3E0dHd6bXg4b290bHhjdDR6bXN6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1bA6hfjoMv1nW7c/giphy.gif" width="35">
+# 🚀 Hi there, I'm a Developer & UI/UX Enthusiast! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2puZ3ZtcXNreXp3b3p0Z3E0dHd6bXg4b290bHhjdDR6bXN6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1bA6hfjoMv1nW7c/giphy.gif" width="35">[cite: 2]
 
-### 👷‍♂️ Transforming Workflows & Crafting Digital Architectures
-I specialize in building robust cross-platform mobile applications, optimizing industrial workflows, and bringing clean, professional user experiences to life. Whether it's structural tracking systems or high-performance UI frameworks, I love turning complex data requirements into intuitive digital tools.
+### 👷‍♂️ Transforming Workflows & Crafting Digital Architectures[cite: 2]
+I specialize in building robust cross-platform mobile applications, optimizing industrial workflows, and bringing clean, professional user experiences to life. Whether it's structural tracking systems or high-performance UI frameworks, I love turning complex data requirements into intuitive digital tools.[cite: 2]
 
 ---
 
-### 🧰 Tech Stack & Toolkit
+### 🧰 Tech Stack & Toolkit[cite: 2]
 
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
-      <br /><sub><b>Flutter</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />[cite: 2]
+      <br /><sub><b>Flutter</b></sub>[cite: 2]
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
-      <br /><sub><b>Dart</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />[cite: 2]
+      <br /><sub><b>Dart</b></sub>[cite: 2]
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android" />
-      <br /><sub><b>Android OS</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android" />[cite: 2]
+      <br /><sub><b>Android OS</b></sub>[cite: 2]
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40" alt="iOS" />
-      <br /><sub><b>iOS Development</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40" alt="iOS" />[cite: 2]
+      <br /><sub><b>iOS Development</b></sub>[cite: 2]
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br /><sub><b>Git / GitHub</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />[cite: 2]
+      <br /><sub><b>Git / GitHub</b></sub>[cite: 2]
     </td>
     <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
-      <br /><sub><b>UI/UX Design</b></sub>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />[cite: 2]
+      <br /><sub><b>UI/UX Design</b></sub>[cite: 2]
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 GitHub Activity & Insights
+### 📈 GitHub Activity & Insights[cite: 2]
 
-⚡ **Fun Fact:** My design philosophy revolves around high-contrast legibility and meticulous state tracking—down to precise structural variables and refined palette metrics like `0xFF263238` for deep, polished text tones.
+⚡ **Fun Fact:** My design philosophy revolves around high-contrast legibility and meticulous state tracking—down to precise structural variables and refined palette metrics like `0xFF263238` for deep, polished text tones.[cite: 2]
 
-🟢 **My Contribution Grid Snake**
-This animation updates automatically every 24 hours to turn my GitHub contribution grid into an interactive retro snake game!
+⚫ **My Contribution Grid Snake**
+This animation updates automatically every 24 hours to turn my GitHub contribution grid into an interactive retro snake game![cite: 2]
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/keyurr26/keyurr26/output/github-contribution-grid-snake.svg)
+<!-- Pointing explicitly to the dark version file generated by the workflow -->
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/keyurr26/keyurr26/output/github-contribution-grid-snake-dark.svg)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=keyurr26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurr26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keyurr26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />[cite: 2]
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurr26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />[cite: 2]
 </p>
 
 ---
 
-### 📫 Let's Connect!
-- 💼 **LinkedIn:** [Your Profile Link](https://linkedin.com)
-- 🌐 **Portfolio/Website:** [Your Website Link](https://yourwebsite.com)
-- 💬 Ask me about: **Flutter architecture, state management, mobile forms, and engineering data schemas!**
+### 📫 Let's Connect![cite: 2]
+- 💼 **LinkedIn:** [Your Profile Link](https://linkedin.com)[cite: 2]
+- 🌐 **Portfolio/Website:** [Your Website Link](https://yourwebsite.com)[cite: 2]
+- 💬 Ask me about: **Flutter architecture, state management, mobile forms, and engineering data schemas!**[cite: 2]
 
 <p align="center">
-  <img src="https://capsule-render.vercel.io/api?type=waving&color=263238&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.io/api?type=waving&color=263238&height=100&section=footer" width="100%"/>[cite: 2]
 </p>
