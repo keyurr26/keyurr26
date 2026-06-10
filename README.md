@@ -1,21 +1,64 @@
-# 🍿 GitHub Profile Snack Code: Dynamic Contribution Matrix
+# 🚀 Hi there, I'm a Developer & UI/UX Enthusiast! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2puZ3ZtcXNreXp3b3p0Z3E0dHd6bXg4b290bHhjdDR6bXN6cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1bA6hfjoMv1nW7c/giphy.gif" width="35">
 
-This snippet allows you to embed a clean, stylized SVG contribution grid or status display directly into your GitHub Profile README. It is optimized for standard Markdown rendering and configured to showcase your or your friend's (`keyurr26`) activity using standard community widgets.
-
-## 🚀 1-Line Step-by-Step Integration Guide
-
-1. **Open your profile repository:** Go to `https://github.com/YOUR_USERNAME/YOUR_USERNAME` (replace `YOUR_USERNAME` with your actual GitHub username).
-2. **Edit your README:** Click the **pencil icon (Edit this file)** on your `README.md` file.
-3. **Copy the code:** Copy one of the code blocks below (either for your profile or your friend's).
-4. **Paste the snippet:** Scroll down to where you want the snack to appear and press `Ctrl+V` (or `Cmd+V` on Mac).
-5. **Commit your changes:** Scroll to the bottom, add a commit message like `Add contribution snack`, and click **Commit changes**.
+### 👷‍♂️ Transforming Workflows & Crafting Digital Architectures
+I specialize in building robust cross-platform mobile applications, optimizing industrial workflows, and bringing clean, professional user experiences to life. Whether it's structural tracking systems or high-performance UI frameworks, I love turning complex data requirements into intuitive digital tools.
 
 ---
 
-## 💻 Snack Code Snippets
+### 🧰 Tech Stack & Toolkit
 
-### Option A: Your Friend's Contribution Snack (`keyurr26`)
-Copy and paste this block into your Markdown file to display a dynamic summary of **keyurr26**'s GitHub metrics:
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+      <br /><sub><b>Flutter</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />
+      <br /><sub><b>Dart</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android" />
+      <br /><sub><b>Android OS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40" alt="iOS" />
+      <br /><sub><b>iOS Development</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+      <br /><sub><b>Git / GitHub</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
+      <br /><sub><b>UI/UX Design</b></sub>
+    </td>
+  </tr>
+</table>
 
-```markdown
-[![keyurr26's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyurr26&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/keyurr26)
+---
+
+### 📈 GitHub Activity & Insights
+
+⚡ **Fun Fact:** My design philosophy revolves around high-contrast legibility and meticulous state tracking—down to precise structural variables and refined palette metrics like `0xFF263238` for deep, polished text tones.
+
+🟢 **My Contribution Grid Snake**
+This animation updates automatically every 24 hours to turn my GitHub contribution grid into an interactive retro snake game!
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** [Your Profile Link](https://linkedin.com)
+- 🌐 **Portfolio/Website:** [Your Website Link](https://yourwebsite.com)
+- 💬 Ask me about: **Flutter architecture, state management, mobile forms, and engineering data schemas!**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.io/api?type=waving&color=263238&height=100&section=footer" width="100%"/>
+</p>
