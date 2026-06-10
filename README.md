@@ -45,11 +45,11 @@ I specialize in building robust cross-platform mobile applications, optimizing i
 🟢 **My Contribution Grid Snake**
 This animation updates automatically every 24 hours to turn my GitHub contribution grid into an interactive retro snake game!
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/keyurr26/keyurr26/output/github-contribution-grid-snake.svg)
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keyurr26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyurr26&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180" />
 </p>
 
 ---
