@@ -1,40 +1,41 @@
 name: Generate Snake
 
 on:
-  # Run automatically every 24 hours
+  # Run automatically every 24 hours[cite: 1]
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */24 * * *"[cite: 1]
   
-  # Allows to manually run the job at any time from the Actions tab
-  workflow_dispatch:
+  # Allows to manually run the job at any time[cite: 1]
+  workflow_dispatch:[cite: 1]
   
-  # Run on every push on the main branch
+  # Run on every push on the main branch[cite: 1]
   push:
     branches:
-    - main
+    - main[cite: 1]
 
 jobs:
   generate:
     permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
+      contents: write[cite: 1]
+    runs-on: ubuntu-latest[cite: 1]
+    timeout-minutes: 5[cite: 1]
     
     steps:
-      # Generates a snake game from a github user's contributions graph, outputting an svg animation
+      # Generates a snake game from a github user's contributions graph[cite: 1]
       - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3[cite: 1]
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.repository_owner }}[cite: 1]
+          # Custom black/dark palettes applied to the output files
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23ffffff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ffffff
           
-      # Push the content of the dist folder to the output branch
+      # Push the content of the dist folder to the output branch[cite: 1]
       - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v3.1.0[cite: 1]
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output[cite: 1]
+          build_dir: dist[cite: 1]
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}[cite: 1]
