@@ -3,41 +3,6 @@
 ### 👷‍♂️ Transforming Workflows & Crafting Digital Architectures[cite: 2]
 I specialize in building robust cross-platform mobile applications, optimizing industrial workflows, and bringing clean, professional user experiences to life. Whether it's structural tracking systems or high-performance UI frameworks, I love turning complex data requirements into intuitive digital tools.[cite: 2]
 
----
-
-### 🧰 Tech Stack & Toolkit[cite: 2]
-
-<table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />[cite: 2]
-      <br /><sub><b>Flutter</b></sub>[cite: 2]
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" />[cite: 2]
-      <br /><sub><b>Dart</b></sub>[cite: 2]
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android" />[cite: 2]
-      <br /><sub><b>Android OS</b></sub>[cite: 2]
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40" height="40" alt="iOS" />[cite: 2]
-      <br /><sub><b>iOS Development</b></sub>[cite: 2]
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />[cite: 2]
-      <br /><sub><b>Git / GitHub</b></sub>[cite: 2]
-    </td>
-    <td align="center" width="110">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />[cite: 2]
-      <br /><sub><b>UI/UX Design</b></sub>[cite: 2]
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📈 GitHub Activity & Insights[cite: 2]
 
 ⚡ **Fun Fact:** My design philosophy revolves around high-contrast legibility and meticulous state tracking—down to precise structural variables and refined palette metrics like `0xFF263238` for deep, polished text tones.[cite: 2]
